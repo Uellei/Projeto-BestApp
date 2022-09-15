@@ -1,4 +1,7 @@
 # Projeto-BestApp Desktop
+<p>
+Projeto criado com intuito de adquirir experiência com landing pages.
+</p>
 
 ![image](https://user-images.githubusercontent.com/111307324/189724873-a547319f-6be0-4abb-aea0-6f29878672ca.png)
 
