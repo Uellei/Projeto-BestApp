@@ -2,6 +2,8 @@
 
 Link para o site: http://weslley.rf.gd/Projeto%20BestApp/
 
+<a href="http://weslley.rf.gd/Projeto%20BestApp/" target=_blank>Projeto BestApp</a>
+
 <p>
 Projeto criado com intuito de adquirir experiência com landing pages.
 </p>
