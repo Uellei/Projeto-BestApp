@@ -1,7 +1,5 @@
 # Projeto-BestApp Desktop
 
-Link para o site: http://weslley.rf.gd/Projeto%20BestApp/
-
 <a href="http://weslley.rf.gd/Projeto%20BestApp/" target="_blank">Projeto BestApp</a>
 
 <p>
