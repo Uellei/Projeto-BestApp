@@ -1,5 +1,5 @@
 # BestApp Landing Page
-<a href="http://weslley.rf.gd/Projeto%20BestApp/" target="_blank">Projeto BestApp</a>
+<a href="https://projeto-best-app.vercel.app/" target="_blank">Projeto BestApp</a>
 
 BestApp Landing Page é um site responsivo projetado para destacar os recursos e vantagens do aplicativo BestApp. Este site foi desenvolvido com o objetivo, além de estudo e prática, fornecer uma visão clara e atraente do aplicativo, facilitando a compreensão e o engajamento dos usuários.
 
@@ -58,6 +58,6 @@ O objetivo da landing page do BestApp é apresentar o aplicativo de forma envolv
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/usuario/bestapp-landing-page.git
+   git clone https://github.com/Uellei/Projeto-BestApp.git
    cd bestapp-landing-page
    ```
